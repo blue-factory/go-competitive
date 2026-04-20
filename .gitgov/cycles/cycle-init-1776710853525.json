@@ -1,0 +1,23 @@
+{
+  "header": {
+    "version": "1.0",
+    "type": "cycle",
+    "payloadChecksum": "71d20ff4e5abad03fc7e8df16c31760c7ff807f045afead568327ee4ffca8c11",
+    "signatures": [
+      {
+        "keyId": "human:cmnyk6w0z00003iymcer4fy6g",
+        "role": "author",
+        "notes": "Initial cycle",
+        "signature": "d+/aga+EJ2t3pUeh8OQkhEz5dMUFUlrYY8xN9gX2tD0hIqCRiBe8jLSeMHwpMlvU+UK8HhhhW0I3e3qW+q17CA==",
+        "timestamp": 1776710853
+      }
+    ]
+  },
+  "payload": {
+    "id": "cycle-init-1776710853525",
+    "title": "Initial cycle",
+    "status": "planning",
+    "taskIds": [],
+    "childCycleIds": []
+  }
+}

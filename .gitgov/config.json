@@ -1,0 +1,10 @@
+{
+  "protocolVersion": "1.0",
+  "projectId": "blue-factory/go-competitive",
+  "projectName": "go-competitive",
+  "rootCycle": "cycle-init-1776710853525",
+  "saasUrl": "http://localhost:3001",
+  "state": {
+    "branch": "gitgov-state"
+  }
+}
