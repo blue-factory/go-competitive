@@ -1,0 +1,31 @@
+{
+  "header": {
+    "version": "1.0",
+    "type": "actor",
+    "payloadChecksum": "7ddee0a7330a90f342123efaba30803888a2486592183fe683226e85e02c5404",
+    "signatures": [
+      {
+        "keyId": "human:cmnyk6w0z00003iymcer4fy6g",
+        "role": "author",
+        "notes": "Actor registration",
+        "signature": "/eGgoNF/hMMNm126OYD0SEHD6QdCGZZNsblfxfOne6uJXfNkU2rWLyeDKNR+8XQfk2E2HLYkcXbDuWnfZBr/CQ==",
+        "timestamp": 1776710852
+      }
+    ]
+  },
+  "payload": {
+    "id": "human:cmnyk6w0z00003iymcer4fy6g",
+    "type": "human",
+    "displayName": "cmnyk6w0z00003iymcer4fy6g",
+    "publicKey": "YE1soJ+3lqv9FJdLQhPcItTiiO8280RpIxjkRpb6vFE=",
+    "roles": [
+      "author"
+    ],
+    "status": "active",
+    "metadata": {
+      "github": {
+        "login": "cmnyk6w0z00003iymcer4fy6g"
+      }
+    }
+  }
+}
