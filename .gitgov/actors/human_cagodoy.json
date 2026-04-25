@@ -1,0 +1,32 @@
+{
+  "header": {
+    "type": "actor",
+    "version": "1.0",
+    "signatures": [
+      {
+        "role": "author",
+        "keyId": "human:cagodoy",
+        "notes": "Actor registration",
+        "signature": "OHBPi1T0A07YWcgf/EbYfKJyTO+xSED31oVyP5mVnmiI/nf9uR+AtKhmM/L6QNkp+VHeptdQQq0LmmREpaD2DQ==",
+        "timestamp": 1777158843
+      }
+    ],
+    "payloadChecksum": "1c6288704e6cf244e18a879547fa71077e57902f564902e0c6b133858adb40b8"
+  },
+  "payload": {
+    "id": "human:cagodoy",
+    "type": "human",
+    "roles": [
+      "owner"
+    ],
+    "status": "active",
+    "metadata": {
+      "github": {
+        "id": 8485620,
+        "login": "cagodoy"
+      }
+    },
+    "publicKey": "eZ41JDb3VSL7na+W8a3ijjmgA+iPbKrfZLorOo8XSoY=",
+    "displayName": "Camilo Acuña Godoy"
+  }
+}
