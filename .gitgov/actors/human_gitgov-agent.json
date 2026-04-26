@@ -1,0 +1,32 @@
+{
+  "header": {
+    "type": "actor",
+    "version": "1.0",
+    "signatures": [
+      {
+        "role": "author",
+        "keyId": "human:gitgov-agent",
+        "notes": "Actor registration",
+        "signature": "pFi+OWHHh7aJjai0JbbtBdxLikVVXC4PikxQOyqONt3XHeR5gGHC6bSRDtPZo2mvyhQKTjj160k1j073dwh9Bg==",
+        "timestamp": 1777197529
+      }
+    ],
+    "payloadChecksum": "d6572d140b6e40ec92ef95eade970d9f0bf0168c50f40ce1a5d5c554933eac7d"
+  },
+  "payload": {
+    "id": "human:gitgov-agent",
+    "type": "human",
+    "roles": [
+      "member"
+    ],
+    "status": "active",
+    "metadata": {
+      "github": {
+        "id": 278822840,
+        "login": "gitgov-agent"
+      }
+    },
+    "publicKey": "P+ndvQvtksf+RMyBQzAzWeZDdyKpmLihC54RRabzgTA=",
+    "displayName": "gitgov-agent"
+  }
+}
